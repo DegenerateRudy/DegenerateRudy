@@ -1,6 +1,6 @@
 *DegenerateRudy*
 
-.py .json
+I break things with python
 
 \o/ Brainless mutt who's useless \o/ 
 
